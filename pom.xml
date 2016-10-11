@@ -4,8 +4,8 @@
 	<groupId>com.vr</groupId>
 	<artifactId>users-registration</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>Users Regisration </name>
-	<description>Basic Java Project for Java Apps</description>
+	<name>Users Registration </name>
+	<description>Requesting User Registration Info</description>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
