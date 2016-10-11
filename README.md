@@ -1,11 +1,7 @@
-#Java Project
+#User Registration
 
-*Project for creating Java applications which do common tasks.*
-
-**Java 7**
+**Java 8**
 
 * Maven
 * Log4j
 * JUnit
-
-[Vaishnavi Reddy](https://github.com/vaishr)
