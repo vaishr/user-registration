@@ -2,8 +2,6 @@
  *   File Name: RequestInput.java<br>
  *
  *   Reddy, Vaishnavi<br>
- *   Java Boot Camp Exercise<br>
- *   Instructor: Jean-francois Nepton<br>
  *   Created: Oct 10, 2016
  *   
  */
