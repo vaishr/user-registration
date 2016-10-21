@@ -2,7 +2,6 @@
  *   File Name: InvalidAcceptableNumberException.java<br>
  *
  *   Reddy, Vaishnavi<br>
- *   Java Boot Camp Exercise<br>
 
 
 package com.sqa.vr.helpers;
